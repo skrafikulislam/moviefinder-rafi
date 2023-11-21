@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+PLEASE RUN npm install IN YOUR COMPUTER TERMINAL TO INSTALL ALL THE DEPENDENCIES FOR THIS PROJECT AND USE THEM .
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
